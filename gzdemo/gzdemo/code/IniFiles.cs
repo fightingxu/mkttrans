@@ -10,7 +10,7 @@ namespace gzdemo
 {
     class IniFiles
     {
-        public string FileName; //INI文件名
+         public string FileName; //INI文件名
         //声明读写INI文件的API函数 Windows Api
         [DllImport("kernel32")]
         private static extern bool WritePrivateProfileString(string section, string key, string val, string filePath);
