@@ -1,0 +1,12 @@
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\bin\Release\gzdemo.exe.config
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\bin\Release\gzdemo.exe
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\bin\Release\gzdemo.pdb
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\obj\x86\Release\ResolveAssemblyReference.cache
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\obj\x86\Release\gzdemo.FormCfg.resources
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\obj\x86\Release\gzdemo.FormLogin.resources
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\obj\x86\Release\gzdemo.FormMain.resources
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\obj\x86\Release\gzdemo.Properties.Resources.resources
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\obj\x86\Release\GenerateResource.read.1.tlog
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\obj\x86\Release\GenerateResource.write.1.tlog
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\obj\x86\Release\gzdemo.exe
+D:\搜狗高速下载\gzdemo\gzdemo\gzdemo\obj\x86\Release\gzdemo.pdb
