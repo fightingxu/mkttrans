@@ -17,6 +17,7 @@ namespace gzdemo.code
         /// </summary>
         /// <param name="msg">信息内容</param>
         /// <param name="type">0:信息 1:错误</param>
+        /// ADD BY XJF TEST测试
         public static void WriteLog(String msg, int type)
         {
             AddFrontLog(msg, type);
