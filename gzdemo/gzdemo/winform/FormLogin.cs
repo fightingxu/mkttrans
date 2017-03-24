@@ -34,7 +34,7 @@ namespace gzdemo
                 return;
             }
             parentFrm.loginOracle(textBoxDBName.Text, textBoxUsername.Text, textBoxPassword.Text);
-
+                    
             this.Close();
         }
 
